@@ -10,6 +10,6 @@ If You like, give-me a star plz~~
 
 [ZLIB LICENSE](https://raw.githubusercontent.com/marcussacana/KrKrZSceneManager/master/KrKrSceneManager/Zlib/license.txt)
 
-### Advanced SCM Editor v0.1a by Rebecca Miyamoto
+### Advanced SCN Editor v0.1a by Rebecca Miyamoto
 
 Improved version of marcussacana's original demonstration UI, with string-matching search feature.
