@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScnEditorGUI", "ScnEditorGUI\ScnEditorGUI.csproj", "{838B7676-AEB7-4509-B1D0-E439D6599D0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced SCN Editor", "ScnEditorGUI\Advanced SCN Editor.csproj", "{838B7676-AEB7-4509-B1D0-E439D6599D0D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrKrSceneManager", "KrKrSceneManager\KrKrSceneManager.csproj", "{77B183F4-656E-4FEC-A424-891382B64FA9}"
 EndProject
